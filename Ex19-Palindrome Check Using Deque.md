@@ -1,5 +1,6 @@
 # Ex-19 Palindrome Check Using Deque
-
+## DATE : 07.09.26
+## AKASH G 212224100004
 ## AIM:
 To design a program that checks whether a given message is a palindrome by removing all non-alphanumeric characters, converting all characters to lowercase, and using a deque data structure for comparison.
 
